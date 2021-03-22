@@ -1,3 +1,8 @@
+---
+layout: post
+title: Blogging Like a Hacker
+---
+
 # Hello World!
 
 Playing around with GitHub Pages. 
