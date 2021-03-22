@@ -1,1 +1,3 @@
-# Ariel Jatib
+# arieljatib.github.io
+
+Playing around w GitHub Pages. 
